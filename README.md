@@ -1,6 +1,6 @@
 ### Pytorch implementation of several variational lower bounds on mutual information, optimized with Neural Networks
 ---
-All those bounds were derived from the work of Ben Poole and al., [*On Variational Bounds of Mutual Information*](https://arxiv.org/abs/1905.06922)
+All those bounds were derived from the work of Ben Poole and al., [*On Variational Bounds of Mutual Information*](https://arxiv.org/abs/1905.06922), 2019.
 
 Their TensorFlow implementation, as well as useful insights, are available on their [GitHub](https://github.com/google-research/google-research/blob/master/vbmi/vbmi_demo.ipynb)
 
